@@ -1,0 +1,13 @@
+9469d65197b3131a580e697056fff0b1 *DESCRIPTION
+f9d6048f5aa8bf83d47e24be835827c7 *LICENSE
+895dc17aae5486a507d95ab89dc2d044 *NAMESPACE
+538894ebe2e8ff06f8b216582cd1dcc4 *R/app_config.R
+93dd22bde126561a3ecbfaa169cf244b *R/app_server.R
+a56a005134e16c1f77d2f762020f0807 *R/app_ui.R
+f59d0fc8468a25b0f3482d95e4101548 *R/run_app.R
+256cb49164211deed5645fa634002710 *R/utils.R
+36c54eef245c6d7993c9c256b80694fe *README.md
+81560d1b906a530c87fa0acbb2f5cca4 *inst/app/www/favicon.ico
+509b32834ef795c891fde68e6ac13a21 *inst/extdata/example.csv
+d1c936ff259e9a491b49e933a45f472e *inst/golem-config.yml
+32f5c6e6df711d65ec30c8f53c7b900f *man/ggvolcano.Rd
